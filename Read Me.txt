@@ -1,0 +1,6 @@
+In this Repo I have created the following branches to keep everything under one Repo
+
+1 - kfc-web-client
+2 - kfc-web-server
+3 - kfc-admin
+4 - kfc-mobile-client
